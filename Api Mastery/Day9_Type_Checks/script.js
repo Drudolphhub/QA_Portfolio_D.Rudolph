@@ -1,0 +1,1 @@
+# Script.Js for Day9 Type Checks

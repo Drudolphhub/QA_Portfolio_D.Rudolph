@@ -1,0 +1,1 @@
+# Readme.Md for Day10 Scope And Response
